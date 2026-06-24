@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Comme D'habitude
+
+This log tracks the cryptographic history and versioning for the song **Comme D'habitude** (comme-dhabitude).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T20:03:49.241001 | `v1` | `bb3bc9067dbd7388fa090bdf29597627ad4edeb6239663c8ff1670371e753359` | `57668aae9cef722d24a1c1c48caa8a8d1e0f27c57ceda9184e907db30817a335` | `2026-06-24_comme-dhabitude-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

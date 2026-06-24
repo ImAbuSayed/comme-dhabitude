@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/comme-dhabitude/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Comme D'habitude](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/comme-dhabitude/) |
+| **Get License** | [Request Licensing for Comme D'habitude](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/comme-dhabitude/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bb3bc9067dbd7388fa090bdf29597627ad4edeb6239663c8ff1670371e753359` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
