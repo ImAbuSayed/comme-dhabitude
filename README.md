@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/comme-dhabitude/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Comme D'habitude](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/comme-dhabitude/) |
+| **Get License** | [Commercial Licensing for Comme D'habitude](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/comme-dhabitude/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> C'est toujours la même danse quand la nuit nous appelle
+> Ton parfum sur ma veste, bébé, t'es l'étincelle
+> On roule sur Paris, sous les néons qui brillent
+> Comme d'habitude, mon cœur bat quand tu me souris
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
